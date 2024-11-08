@@ -1,0 +1,13 @@
+name = "Rich Husk"
+filename = "rich-husk-mcmeta-45_1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VOnRmvDb/versions/NXwvrAC3/rich-husk-mcmeta-45_1.21.jar"
+hash-format = "sha512"
+hash = "27620c014a969338b069474d2eeaae9843e3c7c9fe04029b90dca643bb2d2d3817b91f4cd7fd6a483db33d022f4d63f456053806576eb8a7dc8a14c60f028336"
+
+[update]
+[update.modrinth]
+mod-id = "VOnRmvDb"
+version = "NXwvrAC3"

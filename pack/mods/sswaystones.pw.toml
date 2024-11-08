@@ -1,0 +1,13 @@
+name = "Server-Side Waystones"
+filename = "sswaystones-1.1.4-HOTFIX.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BzV6ulv0/versions/xM2GcoJ0/sswaystones-1.1.4-HOTFIX.jar"
+hash-format = "sha512"
+hash = "07ba636245d351006b1930f528928e92cdb0efe9d8c64fb0163aade4fe7e3ff98bcd439328fc0d9abfb6d71c081e14bfe95fea09328fb68bc0fe374a32afbeea"
+
+[update]
+[update.modrinth]
+mod-id = "BzV6ulv0"
+version = "xM2GcoJ0"

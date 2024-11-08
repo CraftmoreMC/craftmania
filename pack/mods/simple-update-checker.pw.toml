@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/s5pYJlew/versions/v8WBDvjx/simpleupdatechecker-1.1.0%2B1.21.3.jar"
-hash-format = "sha1"
-hash = "0de7c0a52f4456d9eb7e18093a898bf85f17c088"
+hash-format = "sha512"
+hash = "0371bc568dc5e47ee7feb6cc3fa66e4d217f58039d5d674ad5217539054de2d764acca15bd0d063ecc4433636430c26d467ae0dd2c9c28e3fa6b214cd09a3de2"
 
 [update]
 [update.modrinth]

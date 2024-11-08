@@ -1,0 +1,13 @@
+name = "Stackable Shulkers Fix"
+filename = "shulkerfix-1.5.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qr7VQIiR/versions/i8BK8VT9/shulkerfix-1.5.1.jar"
+hash-format = "sha512"
+hash = "41a24d2967ec001fa02c4fc62b3399cea6544bac5fd8a76d4c48e65798bd51d357deb9e57ca63bdd7e10f0bd99c728e246a95e9b30ebb6c2a79336d953ec373c"
+
+[update]
+[update.modrinth]
+mod-id = "qr7VQIiR"
+version = "i8BK8VT9"

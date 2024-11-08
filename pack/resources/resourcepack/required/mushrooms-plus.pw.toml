@@ -1,0 +1,13 @@
+name = "Mushrooms Plus"
+filename = "MushroomsPlus_1.21.3_v1.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mpL9oaYU/versions/VBFNodIp/MushroomsPlus_1.21.3_v1.4.zip"
+hash-format = "sha512"
+hash = "1797423bea8ce87b737861616a8e6223b2980394bc80d9787633a74edcfb0cbe096c9dbdd30aec37a90f7856736de846faea0c42fda856bfd23e22094fa17170"
+
+[update]
+[update.modrinth]
+mod-id = "mpL9oaYU"
+version = "VBFNodIp"

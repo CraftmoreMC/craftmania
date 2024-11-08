@@ -1,0 +1,14 @@
+name = "Structures Rebalanced Advancement Addon"
+filename = "structures-rebalanced-advancements-v1.2.0.zip"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/OUUpCD5M/versions/k7U2b5ii/structures-rebalanced-advancements-v1.2.0.zip"
+hash-format = "sha512"
+hash = "3f756a75be1ed6d4a5bbb92ac3491dc26e3593322ac34c1569d1a7ec4667cd200363fa47bf38a61b02239f33ad860d80e707d29d5a86f963ac77157612da9b95"
+
+[update]
+[update.modrinth]
+mod-id = "OUUpCD5M"
+version = "k7U2b5ii"

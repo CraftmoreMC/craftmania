@@ -1,0 +1,13 @@
+name = "Melius Commands"
+filename = "MeliusCommands-2.0.0+1.21.2-rc2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/lCC4AmlO/versions/vXsv2V4r/MeliusCommands-2.0.0%2B1.21.2-rc2.jar"
+hash-format = "sha512"
+hash = "4d76fada2e3a043ac6781337d57e5b191ef6643c3e0dee77f072b35cde5ba8a644cab72de040f2492dc9e3b21652850c2ab99072426bc087c4e86c892d8db1e7"
+
+[update]
+[update.modrinth]
+mod-id = "lCC4AmlO"
+version = "vXsv2V4r"

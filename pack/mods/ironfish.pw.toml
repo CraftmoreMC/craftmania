@@ -1,0 +1,13 @@
+name = "Ironfish"
+filename = "ironfish-mcmeta-45_1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dyxa2mV3/versions/9S6vJ7lY/ironfish-mcmeta-45_1.21.jar"
+hash-format = "sha512"
+hash = "f39c216ff3d88dd4a98e323924b5430fee1c49056e3dbaa94ea84ac5a0684e373f6688ffd206e6e1b068db719a232f3ae676791724038621f2a5e0f24069281d"
+
+[update]
+[update.modrinth]
+mod-id = "Dyxa2mV3"
+version = "9S6vJ7lY"

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/J5NAzRqK/versions/ag2araZ5/fsit-2.6.2%2Bmc1.21.2.jar"
-hash-format = "sha1"
-hash = "396a1561515933518f283fb542fb22d10705d22a"
+hash-format = "sha512"
+hash = "c1b3277c378af5a30519b9f30c612a590edea4f7080b06d4117bfcc26e299ebe93102caf6ebdfcd578ed52eeb0ee05b1ba3c90045590e4a9c04acbedc46af5ae"
 
 [update]
 [update.modrinth]

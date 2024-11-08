@@ -1,0 +1,13 @@
+name = "Less Chorus"
+filename = "less-chorus-mcmeta-8-48_1.18-1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lrQvJTbf/versions/1m9cPO6T/less-chorus-mcmeta-8-48_1.18-1.21.jar"
+hash-format = "sha512"
+hash = "8de255c20db9c959a5a563531d3063f2c8e68456f1ef01ff25e3a1809a04029f240ac91f6d1177f638141d639f93d1999bc28bc38d727d84df9cc53bc7faf315"
+
+[update]
+[update.modrinth]
+mod-id = "lrQvJTbf"
+version = "1m9cPO6T"

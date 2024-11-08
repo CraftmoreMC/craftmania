@@ -1,0 +1,13 @@
+name = "Fuji (Essentials)"
+filename = "fuji-6.0.0-0fe4718dac-mc1.21.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1TowMm2v/versions/YK6GoueK/fuji-6.0.0-0fe4718dac-mc1.21.2.jar"
+hash-format = "sha512"
+hash = "2b7844f64f2d29b0865fe2da16bb04402bfca4a8766495192e282c5b54e7a04e45e16ff1f1309d3539ca42a2ac0378386551d626c7a4b46f40ad36513361be0f"
+
+[update]
+[update.modrinth]
+mod-id = "1TowMm2v"
+version = "YK6GoueK"

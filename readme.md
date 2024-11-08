@@ -1,3 +1,6 @@
+# Craftmore 3.1!
+Craftmore 3.1 is a Polymania fork for use on the Craftmore server, below is the original readme of polymania, the fork mainly adds more mods, datapacks and a few resourcepacks.
+
 <center>
 
 ![Title Image](https://cdn.modrinth.com/data/gDvfyRyQ/images/54b3a884e008d5922c05eb1e6e4c0fd59f1066ce.png)

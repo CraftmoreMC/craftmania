@@ -1,0 +1,13 @@
+name = "Zombie UUID Preservation"
+filename = "uuid-preserve-1.0.1+1.21.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YOfExNwt/versions/6MvMtiOl/uuid-preserve-1.0.1%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "b3a80ae024e00a3849c6c4b6dac71a2d3223c0f2cf9264a110f6ff9bce9c9e9d1d8e1bf5cc990f4d9fc3e97df5582c23b1fe7a7a84df37111b016fc4b7fb53d4"
+
+[update]
+[update.modrinth]
+mod-id = "YOfExNwt"
+version = "6MvMtiOl"

@@ -1,0 +1,13 @@
+name = "Server Storage"
+filename = "Serverstorage-3.3.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dVYUf2B4/versions/CZ2c6xB4/Serverstorage-3.3.1.jar"
+hash-format = "sha512"
+hash = "ee9a48700d840079ddb9d301fd98cab5650a031e84c7b898c715b4eb1a80a8ec131f88331add0a501d177343c9d6ea54153152c37773bbd16608930834ebb0a1"
+
+[update]
+[update.modrinth]
+mod-id = "dVYUf2B4"
+version = "CZ2c6xB4"

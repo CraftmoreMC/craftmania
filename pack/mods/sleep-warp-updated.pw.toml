@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DlSXkZVT/versions/llYgRMp5/sleepwarp-2.5.0%2B1.21.3.jar"
-hash-format = "sha1"
-hash = "e417cc219497fb68102fdfaefe19c1b94176123e"
+hash-format = "sha512"
+hash = "75b506a436ed1ff72a52d36acc4685cbecbe7ff616ab0b89eefe874daa8655f33858f81ee92e0c8bec8e8c5211877231a9302cbb921f181372c23343e80a3864"
 
 [update]
 [update.modrinth]

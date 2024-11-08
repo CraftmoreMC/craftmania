@@ -1,0 +1,13 @@
+name = "Nemo's Blooming Blossom"
+filename = "nemos-blooming-blossom-1.3-1.21.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/k9WBR3d6/versions/TYzV6QNS/nemos-blooming-blossom-1.3-1.21.3.jar"
+hash-format = "sha512"
+hash = "71b0070261725b1a3ad7ba0762deda368e1434a6e34ffecc77356e3bdc39a490ea78f628dee18cc129f9521cbbf1309d160ba7fbf8753f8362f188424c5b437b"
+
+[update]
+[update.modrinth]
+mod-id = "k9WBR3d6"
+version = "TYzV6QNS"

@@ -1,0 +1,13 @@
+name = "Netherite Recycling"
+filename = "netherite-recycling-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9nhO1kCg/versions/dD3wBoyb/netherite-recycling-1.1.1.jar"
+hash-format = "sha512"
+hash = "160ee85b0f04125d98535bd86319a785e8803a67c16e52ddf10c036521e6499739f483e4f50cacc805716bf12c75b31045ab51c2824b85bbd6377eeee1b5fd37"
+
+[update]
+[update.modrinth]
+mod-id = "9nhO1kCg"
+version = "dD3wBoyb"

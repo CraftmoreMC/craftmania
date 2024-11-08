@@ -1,0 +1,13 @@
+name = "Extended Stonecutter"
+filename = "Extended-Stonecutter-4.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uHsRb39r/versions/es0t6qyb/Extended-Stonecutter-4.1.zip"
+hash-format = "sha512"
+hash = "bf8565cfe9b135571a06af36379eb97aa441e2c70b7bbcf94dda06f1a4057e12cae4c8aeca366ad7ae6797412880ab55c272bfcd1fb1e2e4ad88c86170e45cbc"
+
+[update]
+[update.modrinth]
+mod-id = "uHsRb39r"
+version = "es0t6qyb"

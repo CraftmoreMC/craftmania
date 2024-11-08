@@ -1,0 +1,13 @@
+name = "Model Optimizations & Fixes"
+filename = "Model O&F.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xq2isoUl/versions/lcVPxcKa/Model%20O%26F.zip"
+hash-format = "sha512"
+hash = "09f720ad277bc653422f6653e27f0d1e810bdfa06748adb3b6f38704ea9832f2c658167b6a863c04e140be8aa016c90cd9c1f43182a1e719d5196e7320d0a594"
+
+[update]
+[update.modrinth]
+mod-id = "xq2isoUl"
+version = "lcVPxcKa"

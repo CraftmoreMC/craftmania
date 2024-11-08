@@ -1,0 +1,13 @@
+name = "Variable Copper Bulb Signal"
+filename = "variable_copper_bulb_signal-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhSidgPA/versions/WLCYw0Ln/variable_copper_bulb_signal-1.0.0.jar"
+hash-format = "sha512"
+hash = "33a293460089607035d8fb7c47a0c253f689b44be12ee64e1cacf0ed21df4bfe782c37a0870f8ec8d6045d0d4191b6749a9369e13cdbd362c24e7de44656674c"
+
+[update]
+[update.modrinth]
+mod-id = "lhSidgPA"
+version = "WLCYw0Ln"

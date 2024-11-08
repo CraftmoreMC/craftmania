@@ -1,0 +1,13 @@
+name = "Anvil Crushing Recipes"
+filename = "anvil-crushing-recipes-1.4.1+MC1.21-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1OZRwEoM/versions/jZQWCwHT/anvil-crushing-recipes-1.4.1%2BMC1.21-1.21.1.jar"
+hash-format = "sha512"
+hash = "f02e878fd10877a62d78fa5cc029d03c5022c5835c26b84fb3281fcaf7e3f9ea02a706cb31531e76841f892f52c29991c444b1544d9d2ce101bc09925d02e29f"
+
+[update]
+[update.modrinth]
+mod-id = "1OZRwEoM"
+version = "jZQWCwHT"

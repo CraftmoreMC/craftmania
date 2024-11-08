@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zkp424MG/versions/xWm2DVlD/illager_expansion-1.4.0%2B1.21.3.jar"
-hash-format = "sha1"
-hash = "6db25c27a3289b16f8ce904fa716ac27ca66d1ef"
+hash-format = "sha512"
+hash = "7163f732645f900d5b40ed335e776bc39adc1fa7c928ce508375be8c2510a0b105f928cd957b7c39312590d7bf5e92f0af636f5126118ce660623b19a1c657e9"
 
 [update]
 [update.modrinth]

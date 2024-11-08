@@ -1,0 +1,13 @@
+name = "beta tooltips"
+filename = "beta-tooltips-v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IIYHEODs/versions/VFnmoUGT/beta-tooltips-v1.0.zip"
+hash-format = "sha512"
+hash = "305c4f7d88dd986bb56fb1294e770459fdf10be5b92ce7c34c4db6508837fac094674c9dd2e29b1e1ce22c1c05906174b76b368606686b0e4d1ad3c327a03777"
+
+[update]
+[update.modrinth]
+mod-id = "IIYHEODs"
+version = "VFnmoUGT"

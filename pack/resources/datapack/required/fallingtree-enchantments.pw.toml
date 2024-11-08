@@ -1,0 +1,13 @@
+name = "FallingTree Enchantments"
+filename = "FallingTree Enchantments 1.21.2-1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WU1pzBOj/versions/Wjnrthab/FallingTree%20Enchantments%201.21.2-1.zip"
+hash-format = "sha512"
+hash = "0f4e9e0e2d77e2a3cd7df901338bb348b25ce76e3a36c1b77133f1871ed753fa0ebd90ff087997c9ff9bc869bb0786a94bdf37f717aed5befd4320d3d8bc8792"
+
+[update]
+[update.modrinth]
+mod-id = "WU1pzBOj"
+version = "Wjnrthab"

@@ -1,13 +1,33 @@
 {
-  "markResourcePackAsRequiredByDefault": true,
+  "markResourcePackAsRequiredByDefault": false,
   "include_mod_assets": [
 	"mr_banner_text"
   ],
   "include_zips": [
     "world/resources.zip",
     "polymer/extra/Unsanded-1.1.1-custom.zip",
+    "resources/resourcepack/required/3D Default 1.21.2 v1.11.0.zip",
+    "resources/resourcepack/required/3D Mace!.zip",
+    "resources/resourcepack/required/beta-tooltips-v1.0.zip",
+    "resources/resourcepack/required/Better Enchanting Table v1.1.zip",
+    "resources/resourcepack/required/Better Lily Pads V1.0.zip",
+    "resources/resourcepack/required/EnderEyes_1.21.3_v3.1.zip",
+    "resources/resourcepack/required/CCB.zip",
+    "resources/resourcepack/required/centered_crosshair_fix.zip",
+    "resources/resourcepack/required/Chat Reporting Helper.zip",
+    "resources/resourcepack/required/Connected Paths v1.2.zip",
+    "resources/resourcepack/required/GoldenCrowns_1.8.9.zip",
     "resources/common/required/DarkPaintings.zip",
+    "resources/resourcepack/required/emissive-ores-normal-v1.1.3.zip",
+    "resources/resourcepack/required/Fire_Rekindled.zip",
+    "resources/resourcepack/required/Fogulous_v1.0.3.zip",
+    "resources/resourcepack/required/Less-Rain.zip",
+    "resources/resourcepack/required/Model O&F.zip",
+    "resources/resourcepack/required/MushroomsPlus_1.21.3_v1.4.zip",
+    "resources/resourcepack/required/remodeledcactus.zip",
+    "resources/resourcepack/required/prismarine.zip",
+    "resources/resourcepack/required/Smooth Stone Slab Fix.zip",
     "resources/common/required/patboxtranslations.zip"
   ],
-  "resource_pack_location": "polymer/resource_pack.zip"
+  "resource_pack_location": "polymer/craftmore3.1respack.zip"
 }

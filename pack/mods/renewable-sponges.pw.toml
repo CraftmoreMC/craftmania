@@ -1,0 +1,13 @@
+name = "Renewable Sponges"
+filename = "rsponge-1.1.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/orVgkSea/versions/K7vHigL5/rsponge-1.1.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "fb7f72f68a97a299cc734513974682eeab2e7b712a0b9ef609f7797ecc437bd31f3c9985e776dc5fedae923f3f36d45c326bc7f64430665a75de3382bd0ffd4e"
+
+[update]
+[update.modrinth]
+mod-id = "orVgkSea"
+version = "K7vHigL5"

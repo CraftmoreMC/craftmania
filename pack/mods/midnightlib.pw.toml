@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/codAaoxh/versions/PWJbf1AX/midnightlib-fabric-1.6.4%2B1.21.3.jar"
-hash-format = "sha1"
-hash = "b8b951fa92db2e10c817e81a96f0252541b6de72"
+hash-format = "sha512"
+hash = "328b211fb69792afb584eb7520d0d44c3a01acf68126c355325a90133662041ba7d55e45a75451a8744c2257052cac86e2e98ec5e8c49931a0a34b2d82d9becb"
 
 [update]
 [update.modrinth]

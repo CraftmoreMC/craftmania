@@ -1,0 +1,13 @@
+name = "ViaRewind"
+filename = "ViaRewind-4.0.4-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TbHIxhx5/versions/SUngsjFz/ViaRewind-4.0.4-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "3d4be6b00034c900e4b05a731b01a1c3c93787acca5e664cc7157ab063c12dc30839d741c9d1d7a5095c3c57b1b73bdb329d022062a5d1eb19f141fa844250ab"
+
+[update]
+[update.modrinth]
+mod-id = "TbHIxhx5"
+version = "SUngsjFz"

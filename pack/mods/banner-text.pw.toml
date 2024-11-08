@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zg8QRuv4/versions/kIbFnFcs/banner-text-1.3.2.jar"
-hash-format = "sha1"
-hash = "85687d2d6655e4b0b41c54b1a0977807cb3e7fd1"
+hash-format = "sha512"
+hash = "c2fcf437d9244cff42edcfb67f841ebe2715cdfbf6a1ecc45fd9fee5e86328beea193978444c436cafdad56b4b07a3761bb83211a5a65a80be2f94cd83cd4859"
 
 [update]
 [update.modrinth]

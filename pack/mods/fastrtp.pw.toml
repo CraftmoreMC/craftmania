@@ -1,0 +1,13 @@
+name = "FastRTP | Random Teleport"
+filename = "FastRTP-1.5.2-1.21.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/YWmj2r1d/versions/SEBImtOr/FastRTP-1.5.2-1.21.3.jar"
+hash-format = "sha512"
+hash = "5fcfef557edb1f1d8a7adf2b3b0c9bade4e1b109dbdf04386fd9bb160f4cd7e40fcb961cfcd9bd208e5f0c55c2daa72b01b89d854d89e67fa4e761f443d50799"
+
+[update]
+[update.modrinth]
+mod-id = "YWmj2r1d"
+version = "SEBImtOr"

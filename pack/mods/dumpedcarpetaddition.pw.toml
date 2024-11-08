@@ -1,0 +1,13 @@
+name = "DumpedCarpetAddition"
+filename = "DumpedCarpetAddition-0.2.0-1.21.3-beta.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DDXAeyKv/versions/lhzDrrr4/DumpedCarpetAddition-0.2.0-1.21.3-beta.jar"
+hash-format = "sha512"
+hash = "6fa3d316747d3a0ba8282a73a6d4c2cb0730592c33761b78aeac06e296acb7fd6e7744e8604b615d0bdbbb1bb2f61a51e5408b03f5bb8c568512d315b0319bc0"
+
+[update]
+[update.modrinth]
+mod-id = "DDXAeyKv"
+version = "lhzDrrr4"

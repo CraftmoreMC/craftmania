@@ -1,0 +1,13 @@
+name = "CICADA"
+filename = "cicada-lib-0.9.1+1.21.2-and-above.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IwCkru1D/versions/DymgmgKi/cicada-lib-0.9.1%2B1.21.2-and-above.jar"
+hash-format = "sha512"
+hash = "d88b73958ab688fb317318e4d1a210523c00cc866d930e3374a41127a0347cd5a1c66ea680181c93cc6f6a90bc06b73688086ef1b4538b0dee36d84c06898322"
+
+[update]
+[update.modrinth]
+mod-id = "IwCkru1D"
+version = "DymgmgKi"

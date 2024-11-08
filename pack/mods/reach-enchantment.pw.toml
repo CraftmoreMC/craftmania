@@ -1,0 +1,13 @@
+name = "Reach Enchantment"
+filename = "reach-enchantment-mcmeta-45-57_1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/m9riIbpQ/versions/TUs12opH/reach-enchantment-mcmeta-45-57_1.21.x.jar"
+hash-format = "sha512"
+hash = "e460472ce50d5c5822a4de65f5f9423a0dd12621da02e2d42ab1860d36b8971ef40354748b2066a408d1da653b2cbee0ef02eedc34c84086757774a16e725361"
+
+[update]
+[update.modrinth]
+mod-id = "m9riIbpQ"
+version = "TUs12opH"

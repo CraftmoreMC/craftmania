@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hYvpHPA7/versions/wUc623sr/babyfat-polymerized-1.0.0%2B1.21.2.jar"
-hash-format = "sha1"
-hash = "bde21e5c24ba32ee2056ae34c2bef5f9794e547a"
+hash-format = "sha512"
+hash = "1c9f8e900e6a2c793d3664b69e3c4c027657de3ec21e427c6fe99e837e5b32657185fd13f074a5c3f79d02cb77f7dc3bf56acdfc5b0e99ec271ec7e9aaf703db"
 
 [update]
 [update.modrinth]

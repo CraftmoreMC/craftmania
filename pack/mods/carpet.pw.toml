@@ -1,0 +1,13 @@
+name = "Carpet"
+filename = "fabric-carpet-1.21.2-1.4.158+v241022.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "812c218cf224168dcb70bc529bd0bf3f282a939c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5834860
+project-id = 349239

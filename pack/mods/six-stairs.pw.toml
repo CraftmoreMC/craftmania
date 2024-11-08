@@ -1,0 +1,13 @@
+name = "6 Stairs"
+filename = "six-stairs-mcmeta-49_1.21.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9j9zvJBV/versions/Ur2csUYX/six-stairs-mcmeta-49_1.21.2.jar"
+hash-format = "sha512"
+hash = "cb8a80be67ea0d54bdcd3f5c38608e5de07cd3275a09d24e60beb15bbffdbc00e4d361211fd6c7dad92af1326795a1489e4f1ecab567df96be30494002b66f88"
+
+[update]
+[update.modrinth]
+mod-id = "9j9zvJBV"
+version = "Ur2csUYX"

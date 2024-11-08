@@ -1,0 +1,13 @@
+name = "Woolcutter"
+filename = "Woolcutter-3.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ve5m0yeo/versions/ZS4Sw44t/Woolcutter-3.1.zip"
+hash-format = "sha512"
+hash = "69419318d851bc5e88c0250f4ec613edc79a55d9f041a36000d6b49eee39672a1f8b8145af128e4fe93834bfdf64c503064a28b5d9ae86861d34ea162b6b356c"
+
+[update]
+[update.modrinth]
+mod-id = "ve5m0yeo"
+version = "ZS4Sw44t"

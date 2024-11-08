@@ -1,0 +1,13 @@
+name = "Woodcutter"
+filename = "Woodcutter-7.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jyeV42gK/versions/MPqoMb3W/Woodcutter-7.1.zip"
+hash-format = "sha512"
+hash = "6efb412d607dd5f4db7c26002cc5730175112eb63c58d74206eb65696d2ad2c61056a2772cac59509a3808029cdecc9045ddd049eb530a0ae97d494c1d4e1edc"
+
+[update]
+[update.modrinth]
+mod-id = "jyeV42gK"
+version = "MPqoMb3W"

@@ -1,0 +1,14 @@
+name = "3D Mace!"
+filename = "3D Mace!.zip"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/vGiGMuzg/versions/rE9XuTua/%C2%A7f%C2%A7l3D%20Mace%21.zip"
+hash-format = "sha512"
+hash = "bc848940d4b0a5e4df0f73af1a886a50e13ebdfc8929b4a341a04c6913ee677c7ed35d5be7e70fc85e7c0c9ee5491a19cad0901a68270c150021aa935b23ae90"
+
+[update]
+[update.modrinth]
+mod-id = "vGiGMuzg"
+version = "rE9XuTua"

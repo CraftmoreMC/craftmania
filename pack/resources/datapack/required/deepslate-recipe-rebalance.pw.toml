@@ -1,0 +1,13 @@
+name = "Deepslate Recipe Rebalance"
+filename = "Deepslate Recipe Rebalance (MC-1.21).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xrNqt99d/versions/qirDPO39/Deepslate%20Recipe%20Rebalance%20%28MC-1.21%29.zip"
+hash-format = "sha512"
+hash = "1a354df26205fe3852f892c5a36e870d8589ba8f14b265a7dd70d24e25a48e7937dab6c5a77dc5d1191ab4a517fa3825bfcf8e2be3c23008a50190e36dec55f9"
+
+[update]
+[update.modrinth]
+mod-id = "xrNqt99d"
+version = "qirDPO39"

@@ -1,0 +1,13 @@
+name = "pack.png painting"
+filename = "pack-png-painting-mcmeta-42-100_1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/emOIgP6U/versions/wfKHiatn/pack-png-painting-mcmeta-42-100_1.21.jar"
+hash-format = "sha512"
+hash = "f15be418bcd48b00385e356956fd6507f30f914acc92502aab3ca31bc26dda0312129b11dbd16d110cf646f27a4e501e18cfae8109fbee7f2e68db47fa59d086"
+
+[update]
+[update.modrinth]
+mod-id = "emOIgP6U"
+version = "wfKHiatn"
